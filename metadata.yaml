@@ -1,0 +1,32 @@
+ID: "COMP3059"
+SimilarID: []
+Name: "软件构造"
+CourseProperty:
+  Major:
+    - Year: "2025_2026"
+      Name: [ "计算机", "人工智能班" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "COMP3059"
+  CourseName: "软件构造"
+  Credit: "2.5"
+  CourseHour: "40.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "作业"
+      Percentage: "10"
+    - Name: "上机实验"
+      Percentage: "40"
+    - Name: "期末考试"
+      Percentage: "50"
+  CourseHourComposition:
+    - Name: ""
+      Hour: ""
