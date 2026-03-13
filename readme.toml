@@ -1,7 +1,6 @@
 course_name = "软件构造"
-repo_type = "normal"
 course_code = "COMP3059"
-
+repo_type = "normal"
 description = """
 本课程 Introduction to Object-oriented Software Construction 为自 2020 级开始加入的必修课。
 曾用名和课程代码为 COMP2027 面向对象的软件构造导论，2023 级改为 COMP3059 软件构造并从大二春开设移至大三秋开设。
