@@ -1,11 +1,5 @@
 # COMP3059 - 软件构造
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
-![上机实验40%](https://img.shields.io/badge/上机实验-40%25-wheat)
-![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
 
 本课程 Introduction to Object-oriented Software Construction 为自 2020 级开始加入的必修课。
 曾用名和课程代码为 COMP2027 面向对象的软件构造导论，2023 级改为 COMP3059 软件构造并从大二春开设移至大三秋开设。
@@ -35,3 +29,12 @@
 <!-- TOML-ITEM: id="item-学习建议-1" -->
 
 作为一门编程语言课，Java 语言的学习可以借助网上的许多资料。这门课同时还会学习设计模式这些抽象的东西，因此听课也挺重要的。
+
+## （请忽略）hita提交链路测试
+<!-- TOML-SECTION: title="（请忽略）hita提交链路测试" -->
+
+<!-- TOML-ITEM: id="item-（请忽略）hita提交链路测试-1" -->
+
+测试
+
+> 文 / 测试，2026-04
