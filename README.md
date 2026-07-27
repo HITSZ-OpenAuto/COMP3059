@@ -4,8 +4,8 @@
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
-![上机实验30%](https://img.shields.io/badge/上机实验-30%25-wheat)
-![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
+![上机实验40%](https://img.shields.io/badge/上机实验-40%25-wheat)
+![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
 
 本课程 Introduction to Object-oriented Software Construction 为自 2020 级开始加入的必修课。
 曾用名和课程代码为 COMP2027 面向对象的软件构造导论，2023 级改为 COMP3059 软件构造并从大二春开设移至大三秋开设。
@@ -31,6 +31,7 @@
 - 综合题：共 4 题，每题 10 分，共 40 分。这一部分包括代码功能分析、UML 类图绘制、手写代码等。
 
 26 春的试卷考的比较细，涉及到了很多新的考点和一些平时复习时可能忽略的点，和往年题差异较大，但几乎所有题目都可以从 PPT 中找到依据，因此复习时仍需以 PPT 为主要参考依据，看往年题为辅。当然，介于这门课暂时成为考查课（具体参考各自年级的培养方案），且考试成绩只占到 60 %，因此实际复习和考试的压力其实不算大。
+
 ## 关于实验
 <!-- TOML-SECTION: title="关于实验" -->
 
