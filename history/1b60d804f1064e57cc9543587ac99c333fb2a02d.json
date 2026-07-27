@@ -1,0 +1,207 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814662,
+    "hash": "aefd0c5f308336d88154d1bfc5f7096cd48994f8"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754198008,
+    "hash": "3480354e8c25c3938356650e68ca919ad0f005c5"
+  },
+  "README.md": {
+    "size": 3939,
+    "time": 1785173743,
+    "hash": "1b60d804f1064e57cc9543587ac99c333fb2a02d"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754198008,
+    "hash": "3480354e8c25c3938356650e68ca919ad0f005c5"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754198008,
+    "hash": "3480354e8c25c3938356650e68ca919ad0f005c5"
+  },
+  "exams/2020春本部面向对象的软件构造导论期末试卷A.pdf": {
+    "size": 760788,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "exams/2020春本部面向对象的软件构造导论期末试卷B.pdf": {
+    "size": 1439248,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "exams/2020春本部面向对象的软件构造导论期末试卷C.pdf": {
+    "size": 3683996,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "exams/2022春深圳面向对象的软件构造导论期末试卷.pdf": {
+    "size": 754984,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "exams/2022春深圳面向对象的软件构造导论期末试卷答案.pdf": {
+    "size": 540483,
+    "time": 1765037506,
+    "hash": "a890107fab13992200e16bc74ec935eb67d2715e"
+  },
+  "exams/2024年春面向对象的软件构造导论期末考试试题（回忆版）.pdf": {
+    "size": 276534,
+    "time": 1765037506,
+    "hash": "a890107fab13992200e16bc74ec935eb67d2715e"
+  },
+  "exams/2024年春面向对象的软件构造导论期末考试试题（回忆版）答案.pdf": {
+    "size": 634259,
+    "time": 1765037506,
+    "hash": "a890107fab13992200e16bc74ec935eb67d2715e"
+  },
+  "exams/2025年秋软件构造期末试题（回忆版）.pdf": {
+    "size": 567155,
+    "time": 1765037506,
+    "hash": "a890107fab13992200e16bc74ec935eb67d2715e"
+  },
+  "exams/2025年秋软件构造期末试题（回忆版）答案.pdf": {
+    "size": 415472,
+    "time": 1765037506,
+    "hash": "a890107fab13992200e16bc74ec935eb67d2715e"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754198008,
+    "hash": "3480354e8c25c3938356650e68ca919ad0f005c5"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754198008,
+    "hash": "3480354e8c25c3938356650e68ca919ad0f005c5"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/Java 基础 3a7a1a506d2a49c1bc5676caeba39fbe.md": {
+    "size": 6224,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/Java 基础 3a7a1a506d2a49c1bc5676caeba39fbe/Untitled 1.png": {
+    "size": 38121,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/Java 基础 3a7a1a506d2a49c1bc5676caeba39fbe/Untitled.png": {
+    "size": 29316,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/多线程、泛型与反射 6e572eeb16b3446893407c2aefcd0d6b.md": {
+    "size": 10292,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/多线程、泛型与反射 6e572eeb16b3446893407c2aefcd0d6b/Untitled.png": {
+    "size": 45599,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/流、IO 和网络编程 e3ad3bfe44e7445f813277e23ee47458.md": {
+    "size": 5625,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/流、IO 和网络编程 e3ad3bfe44e7445f813277e23ee47458/Untitled 1.png": {
+    "size": 240036,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/流、IO 和网络编程 e3ad3bfe44e7445f813277e23ee47458/Untitled.png": {
+    "size": 823185,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/软件开发概述 153a5ced53594027873a9d540d7f40be.md": {
+    "size": 1033,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/软件开发概述 153a5ced53594027873a9d540d7f40be/Untitled.png": {
+    "size": 63091,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/面向对象与设计模式 ead434ae79984ed7b2d43130cdfd769c.md": {
+    "size": 12210,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/面向对象与设计模式 ead434ae79984ed7b2d43130cdfd769c/Untitled 1.png": {
+    "size": 102939,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/面向对象与设计模式 ead434ae79984ed7b2d43130cdfd769c/Untitled 10.png": {
+    "size": 154525,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/面向对象与设计模式 ead434ae79984ed7b2d43130cdfd769c/Untitled 2.png": {
+    "size": 35368,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/面向对象与设计模式 ead434ae79984ed7b2d43130cdfd769c/Untitled 3.png": {
+    "size": 199237,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/面向对象与设计模式 ead434ae79984ed7b2d43130cdfd769c/Untitled 4.png": {
+    "size": 243385,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/面向对象与设计模式 ead434ae79984ed7b2d43130cdfd769c/Untitled 5.png": {
+    "size": 91811,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/面向对象与设计模式 ead434ae79984ed7b2d43130cdfd769c/Untitled 6.png": {
+    "size": 74421,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/面向对象与设计模式 ead434ae79984ed7b2d43130cdfd769c/Untitled 7.png": {
+    "size": 277887,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/面向对象与设计模式 ead434ae79984ed7b2d43130cdfd769c/Untitled 8.png": {
+    "size": 257273,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/面向对象与设计模式 ead434ae79984ed7b2d43130cdfd769c/Untitled 9.png": {
+    "size": 283815,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/Object-Oriented Programming 5f65a24c541b431f863cd88c54128e7b/面向对象与设计模式 ead434ae79984ed7b2d43130cdfd769c/Untitled.png": {
+    "size": 55935,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "notes/2022_hanswan/README.md": {
+    "size": 1708,
+    "time": 1756827844,
+    "hash": "069c704debb318068183a1fe8ffe016da88f09cf"
+  },
+  "readme.toml": {
+    "size": 3505,
+    "time": 1785173743,
+    "hash": "1b60d804f1064e57cc9543587ac99c333fb2a02d"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754198008,
+    "hash": "3480354e8c25c3938356650e68ca919ad0f005c5"
+  }
+}
